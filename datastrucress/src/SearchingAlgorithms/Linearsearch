@@ -1,0 +1,7 @@
+Linear search is normal searching example search an element in an array use single loop to find target
+int tar=5;
+ar={1,2,3,4,5}
+for(int i=0;i<ar.length;i++)
+  if(ar[i]==tar){
+    sout("Target found);
+}
